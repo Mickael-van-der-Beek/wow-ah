@@ -30,7 +30,7 @@ module.exports = (function () {
 			colog.success('> Start syncing files at ' + start);
 
 			FileSync.sync(
-				'/Users/kollektiv/Documents/wow-ah/03-04-2015/data',
+				'/Users/kollektiv/Documents/wow-ah/19-04-2015/data',
 				function (e) {
 					var end = new Date();
 

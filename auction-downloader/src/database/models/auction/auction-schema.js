@@ -4,17 +4,18 @@ module.exports = (function () {
 	'use strict';
 
 	return new (mongoose.Schema)({
-		startFile: {
+		startDate: {
 			type: 'Date'
 		},
-		startEst: {
+		startTime: {
+			type: 'String'
+		},
+
+		endDate: {
 			type: 'Date'
 		},
-		endFile: {
-			type: 'Date'
-		},
-		endEst: {
-			type: 'Date'
+		endTime: {
+			type: 'String'
 		},
 
 		auction: {
@@ -52,6 +53,7 @@ module.exports = (function () {
 				type: 'Number'
 			}
 		},
+
 		bid: {
 			date: {
 				type: 'Date'

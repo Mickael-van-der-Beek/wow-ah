@@ -36,36 +36,37 @@ public class IDatabase {
     }
 
     public PreparedStatement updateAuction (JSONObject auction) {
-        
+
     }
 
     public PreparedStatement createAuction (JSONObject auction, JSONObject file) throws SQLException {
         PreparedStatement preparedStatement = connection.prepareStatement(
-                "INSERT INTO " + database + ".auctions values (" +
-                        "default," +
-                        // 1) startfile (Date)
-                        "?," +
-                        // 2) startest (Date)
-                        "?," +
-                        // 3) endfile (Date)
-                        "?," +
-                        // 4) endest (Date)
-                        "?," +
-                        // 5) auctionid (String)
-                        "?," +
-                        // 6) userid (String)
-                        "?," +
-                        // 7) realm (String)
-                        "?," +
-                        // 8) itemid (String)
-                        "?," +
-                        // 9) quant (Number)
-                        "?," +
-                        // 10) buyout (Number)
-                        "?," +
-                        // 11) bid (Number)
-                        "?" +
-                ")"
+                "INSERT INTO " + database + ".auctions values" +
+                        "(" +
+                            "default," +
+                            // 1) startfile (Date)
+                            "?," +
+                            // 2) startest (Date)
+                            "?," +
+                            // 3) endfile (Date)
+                            "?," +
+                            // 4) endest (Date)
+                            "?," +
+                            // 5) auctionid (String)
+                            "?," +
+                            // 6) userid (String)
+                            "?," +
+                            // 7) realm (String)
+                            "?," +
+                            // 8) itemid (String)
+                            "?," +
+                            // 9) quant (Number)
+                            "?," +
+                            // 10) buyout (Number)
+                            "?," +
+                            // 11) bid (Number)
+                            "?" +
+                        ")"
         );
 
         // 1) startfile (Date)

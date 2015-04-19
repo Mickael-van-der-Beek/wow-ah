@@ -117,7 +117,7 @@ module.exports = (function () {
 
 		async.eachLimit(
 			body.auctions.auctions,
-			25,
+			200,
 			function (auction, cb) {
 				counter += 1;
 
