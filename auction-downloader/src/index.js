@@ -24,6 +24,7 @@ module.exports = (function () {
 			function webserver (cb) {
 				Webserver.init(webserverConfig);
 				Webserver.importControllers('../webserver/controllers/controllers');
+				Webserver.importStatics();
 				Webserver.listen(cb);
 			}
 		], function (e) {

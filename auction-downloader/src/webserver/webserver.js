@@ -22,6 +22,8 @@ module.exports = (function () {
 		this.app.set('version', config.version);
 		this.app.set('protocol', config.protocol);
 		this.app.set('hostname', config.hostname);
+		this.app.set('indexPath', config.indexPath);
+		this.app.set('staticPath', config.staticPath);
 
 		this.app.set('query parser', 'extended');
 		this.app.disable('x-powered-by');
@@ -42,6 +44,21 @@ module.exports = (function () {
 
 	Webserver.prototype.importControllers = function (controllersPath) {
 		require(path.resolve(__dirname, controllersPath))(this.app);
+	};
+
+	Webserver.prototype.importStatics = function () {
+		var staticPath = path.resolve(__dirname, this.app.get('staticPath'));
+		var indexPath = path.resolve(__dirname, this.app.get('indexPath'));
+
+		this.app.use(
+			express.static(staticPath, {
+				dotfiles: 'deny'
+			})
+		);
+
+		this.app.get('*', function (req, res) {
+			res.status(200).sendFile(indexPath);
+		});
 	};
 
 	return new Webserver();

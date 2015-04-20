@@ -1,23 +1,23 @@
 {
 	"development": {
-		"hostname": "localhost",
-		"protocol": "http",
-		"version": "v1",
-		"port": 8000
-	},
-	"test": {
+		"staticPath": "../public/src",
+		"indexPath": "../public/src/index.html",
 		"hostname": "localhost",
 		"protocol": "http",
 		"version": "v1",
 		"port": 8000
 	},
 	"staging": {
+		"staticPath": "../public/src",
+		"indexPath": "../public/src/index.html",
 		"hostname": "localhost",
 		"protocol": "http",
 		"version": "v1",
 		"port": 8000
 	},
 	"production": {
+		"staticPath": "../public/src",
+		"indexPath": "../public/src/index.html",
 		"hostname": "localhost",
 		"protocol": "http",
 		"version": "v1",

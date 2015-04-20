@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>WoW AH</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+</head>
+<body>
+
+	<div id="line-chart"></div>
+
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dygraph/1.1.0/dygraph-combined.js"></script>
+	<script type="text/javascript">
+		function drawLineChart (ele, data) {
+			new Dygraph(div, "ny-vs-sf.txt", {
+				legend: 'always',
+				title: 'NYC vs. SF',
+				showRoller: true,
+				rollPeriod: 14,
+				customBars: true,
+				ylabel: 'Temperature (F)',
+			});
+		}
+
+		var request = new XMLHttpRequest();
+
+		request.open('POST', '/v1/items/' + itemId, true);
+		request.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
+		request.send({});
+
+		request.onload = function () {
+			if (request.status !== 200) {
+				throw new Error('Request: Response was ' + request.status);
+			}
+
+			var data = JSON.parse(request.responseText);
+			var ele = document.getElementById('line-chart');
+
+			drawLineChart(ele, data);
+		};
+
+		request.onerror = function (e) {
+			throw e;
+		};
+	</script>
+</body>
+</html>
