@@ -13,7 +13,7 @@ module.exports = function (app) {
 	 */
 
 	app
-	.route('/' + apiVersion + '/item:id')
+	.route('/' + apiVersion + '/items/:id')
 	.post(
 		function (req, res) {
 			var startDate = req.query.startDate || new Date('2015-01-01');
@@ -30,7 +30,16 @@ module.exports = function (app) {
 					},
 					{
 						$group: {
-							_id: 'startDate'
+							_id: '$startFile',
+							avgPrice: {
+								$avg: '$buyout.value'
+							},
+							totalQuantity: {
+								$sum: '$item.quantity'
+							},
+							auctionCount: {
+								$sum: 1
+							}
 						}
 					}
 				], function (e, results) {
@@ -44,7 +53,7 @@ module.exports = function (app) {
 					res
 						.type('json')
 						.status(200)
-						.end(results);
+						.json(results);
 				});
 		}
 	);

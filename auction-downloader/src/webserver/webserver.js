@@ -7,8 +7,9 @@ var colog = require('colog');
 module.exports = (function () {
 	'use strict';
 
-	function Webserver (config) {
+	function Webserver () {}
 
+	Webserver.prototype.init = function (config) {
 		config  = config || {};
 
 		http.globalAgent.maxSockets = 100;
@@ -24,11 +25,9 @@ module.exports = (function () {
 
 		this.app.set('query parser', 'extended');
 		this.app.disable('x-powered-by');
-		// this.app.disable('etag');
 		this.app.enable('strict routing');
 		this.app.enable('case sensitive routing');
-
-	}
+	};
 
 	Webserver.prototype.listen = function (callback) {
 		var port = this.app.get('port');
@@ -36,15 +35,14 @@ module.exports = (function () {
 		colog.success('[\u2714] Webserver listening on port ' + port);
 
 		this.server
-		.listen(port)
-		.on('error', callback)
-		.on('listening', callback);
+			.listen(port)
+			.on('error', callback)
+			.on('listening', callback);
 	};
 
 	Webserver.prototype.importControllers = function (controllersPath) {
 		require(path.resolve(__dirname, controllersPath))(this.app);
 	};
 
-	return Webserver;
-
+	return new Webserver();
 })();

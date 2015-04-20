@@ -5,8 +5,6 @@ module.exports = function (app) {
 
 	colog.success('[\u2714] Webserver Controllers:');
 
-	require('./monit')(app);
-
 	require('./items')(app);
 
 };

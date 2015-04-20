@@ -4,6 +4,9 @@ module.exports = (function () {
 	'use strict';
 
 	return new (mongoose.Schema)({
+		startFile: {
+			type: 'Date'
+		},
 		startDate: {
 			type: 'Date'
 		},
@@ -11,6 +14,9 @@ module.exports = (function () {
 			type: 'String'
 		},
 
+		endFile: {
+			type: 'Date'
+		},
 		endDate: {
 			type: 'Date'
 		},

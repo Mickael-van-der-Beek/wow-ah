@@ -10,6 +10,9 @@ module.exports = (function () {
 		var databaseConfig = require('./config/database')[NODE_ENV];
 		var Database = require('./database/database');
 
+		var webserverConfig = require('./config/webserver')[NODE_ENV];
+		var Webserver = require('./webserver/webserver');
+
 		var FileSync = require('./file-sync/file-sync');
 
 		async.series([
@@ -17,6 +20,11 @@ module.exports = (function () {
 				Database.init(databaseConfig);
 				Database.importModels('../database/models/models');
 				Database.listen(cb);
+			},
+			function webserver (cb) {
+				Webserver.init(webserverConfig);
+				Webserver.importControllers('../webserver/controllers/controllers');
+				Webserver.listen(cb);
 			}
 		], function (e) {
 			if (e) {
@@ -29,23 +37,23 @@ module.exports = (function () {
 
 			colog.success('> Start syncing files at ' + start);
 
-			FileSync.sync(
-				'/Users/kollektiv/Documents/wow-ah/19-04-2015/data',
-				function (e) {
-					var end = new Date();
+			// FileSync.sync(
+			// 	'/Users/kollektiv/Documents/wow-ah/19-04-2015/data',
+			// 	function (e) {
+			// 		var end = new Date();
 
-					if (e) {
-						colog.error(e) && colog.error(e.stack);
-					}
-					else {
-						colog.success('End syncing file at ' + end);
-					}
+			// 		if (e) {
+			// 			colog.error(e) && colog.error(e.stack);
+			// 		}
+			// 		else {
+			// 			colog.success('End syncing file at ' + end);
+			// 		}
 
-					colog.success('Duration is ' + (end - start) + ' ms');
+			// 		colog.success('Duration is ' + (end - start) + ' ms');
 
-					process.exit(1);
-				}
-			);
+			// 		process.exit(1);
+			// 	}
+			// );
 		});
 	}
 
