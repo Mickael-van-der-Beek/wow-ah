@@ -5,44 +5,79 @@
 	<title>WoW AH</title>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+	<style type="text/css">
+		#timeseries {
+			position: absolute;
+
+			width: 1200px;
+			height: 400px;
+
+			left: 0px;
+			top: 50px;
+			right: 0px;
+			bottom: 0px;
+		}
+	</style>
 </head>
 <body>
 
-	<div id="line-chart"></div>
+	<input id="itemid" placeholder="Item Id" value="109693" />
+	<div id="timeseries"></div>
 
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dygraph/1.1.0/dygraph-combined.js"></script>
 	<script type="text/javascript">
-		function drawLineChart (ele, data) {
-			new Dygraph(div, "ny-vs-sf.txt", {
+		function drawTimeseries (ele, data, labels) {
+			console.log(data);
+			new Dygraph(ele, data, {
+				labels: labels,
 				legend: 'always',
-				title: 'NYC vs. SF',
-				showRoller: true,
-				rollPeriod: 14,
-				customBars: true,
-				ylabel: 'Temperature (F)',
+				title: 'Volume vs. Avg. Item Price'
 			});
 		}
 
-		var request = new XMLHttpRequest();
+		function requestData (itemId) {
+			var request = new XMLHttpRequest();
 
-		request.open('POST', '/v1/items/' + itemId, true);
-		request.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
-		request.send({});
+			request.open('POST', '/v1/items/' + itemId, true);
+			request.setRequestHeader('Content-Type', 'application/json; charset=UTF-8');
 
-		request.onload = function () {
-			if (request.status !== 200) {
-				throw new Error('Request: Response was ' + request.status);
-			}
+			request.onload = function () {
+				if (request.status !== 200) {
+					throw new Error('Request: Response was ' + request.status);
+				}
 
-			var data = JSON.parse(request.responseText);
-			var ele = document.getElementById('line-chart');
+				var data = JSON.parse(request.responseText, function (key, value) {
+					if (
+						typeof value === 'string' &&
+						/^([0-9]{4}-[0-9]{2}-[0-9]{2}T[0-9]{2}:[0-9]{2}:[0-9]{2}\.[0-9]{3}Z)$/.test(value)
+					) {
+						value = new Date(value);
+					}
 
-			drawLineChart(ele, data);
+					return value;
+				});
+				var ele = document.getElementById('timeseries');
+
+				drawTimeseries(ele, data, ['Date', 'Volume', 'Avg. Price']);
+			};
+
+			request.onerror = function (e) {
+				throw e;
+			};
+
+			request.send({});
+		}
+
+		var itemId = parseInt(document.getElementById('itemid').value, 10);
+
+		document.getElementById('itemid').onchange = function () {
+			itemId = parseInt(this.value, 10);
+
+			requestData(itemId);
 		};
 
-		request.onerror = function (e) {
-			throw e;
-		};
+		requestData(itemId);
 	</script>
 </body>
 </html>

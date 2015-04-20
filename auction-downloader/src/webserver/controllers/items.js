@@ -31,15 +31,17 @@ module.exports = function (app) {
 					{
 						$group: {
 							_id: '$startFile',
-							avgPrice: {
-								$avg: '$buyout.value'
-							},
-							totalQuantity: {
+							volume: {
 								$sum: '$item.quantity'
 							},
-							auctionCount: {
-								$sum: 1
+							avgPrice: {
+								$avg: '$buyout.value'
 							}
+						}
+					},
+					{
+						$sort: {
+							_id: 1
 						}
 					}
 				], function (e, results) {
@@ -53,7 +55,15 @@ module.exports = function (app) {
 					res
 						.type('json')
 						.status(200)
-						.json(results);
+						.json(
+							results.map(function (result) {
+								return [
+									result._id,
+									result.volume,
+									result.avgPrice
+								];
+							})
+						);
 				});
 		}
 	);

@@ -34,9 +34,9 @@ module.exports = (function () {
 
 			colog.success(new Array(81).join('-'));
 
-			var start = new Date();
+			// var start = new Date();
 
-			colog.success('> Start syncing files at ' + start);
+			// colog.success('> Start syncing files at ' + start);
 
 			// FileSync.sync(
 			// 	'/Users/kollektiv/Documents/wow-ah/19-04-2015/data',
