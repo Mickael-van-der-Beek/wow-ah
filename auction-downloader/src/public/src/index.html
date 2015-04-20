@@ -29,7 +29,9 @@
 	<script type="text/javascript">
 		function drawTimeseries (ele, data, labels) {
 			new Dygraph(ele, data, {
+				strokeBorderWidth: null,
 				stackedGraph: true,
+
 				labels: labels,
 				legend: 'always',
 				title: 'Volume vs. Avg. Item Price',
@@ -40,6 +42,12 @@
 					'Volume': {
 						axis: 'y2'
 					}
+				},
+
+				highlightSeriesOpts: {
+					highlightCircleSize: 3,
+					strokeBorderWidth: 2,
+					strokeWidth: 2
 				}
 			});
 		}
