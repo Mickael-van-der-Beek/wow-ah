@@ -56,7 +56,13 @@ module.exports = function (app) {
 						.type('json')
 						.status(200)
 						.json(
-							results
+							results.map(function (result) {
+								return [
+									result._id,
+									result.volume,
+									result.avgPrice
+								];
+							})
 						);
 				});
 		}
