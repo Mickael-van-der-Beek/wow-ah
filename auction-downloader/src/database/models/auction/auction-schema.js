@@ -47,7 +47,8 @@ module.exports = (function () {
 				type: 'Number'
 			},
 			id: {
-				type: 'String'
+				type: 'String',
+				index: true
 			}
 		},
 
