@@ -6,6 +6,7 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
+	<style type="text/css" src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.min.css"></style>
 	<style type="text/css">
 		#timeseries {
 			position: absolute;
@@ -25,14 +26,42 @@
 	<input id="itemid" placeholder="Item Id" value="109693" />
 	<div id="timeseries"></div>
 
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dygraph/1.1.0/dygraph-combined.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.min.js"></script>
 	<script type="text/javascript">
-		function drawTimeseries (ele, data, labels) {
-			console.log(data);
-			new Dygraph(ele, data, {
-				labels: labels,
-				legend: 'always',
-				title: 'Volume vs. Avg. Item Price'
+		function drawTimeseries (data, labels) {
+			c3.generate({
+				bindto: '#timeseries',
+				data: {
+					// x: '_id',
+					// xFormat: '%Y-%m-%dT%H:%M:%S',
+					json: data,
+					keys: {
+						value: ['volume', 'avgPrice'],
+						x: '_id'
+					}
+				},
+				// axes: {
+				// 	avgPrice: 'y',
+				// 	volume: 'y2'
+				// },
+				axis: {
+					y2: {
+						show: true,
+						min: 0
+					},
+					y: {
+						min: 0
+					},
+					x: {
+						type: 'timeseries',
+						tick: {
+							format: function (xi) {
+								return xi.toLocaleDateString();
+							}
+						}
+					}
+				}
 			});
 		}
 
@@ -57,9 +86,8 @@
 
 					return value;
 				});
-				var ele = document.getElementById('timeseries');
 
-				drawTimeseries(ele, data, ['Date', 'Volume', 'Avg. Price']);
+				drawTimeseries(data, ['Date', 'Volume', 'Avg. Price']);
 			};
 
 			request.onerror = function (e) {
