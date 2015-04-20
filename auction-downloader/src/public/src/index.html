@@ -29,18 +29,24 @@
 	<script type="text/javascript">
 		function drawTimeseries (ele, data, labels) {
 			new Dygraph(ele, data, {
-				strokeBorderWidth: null,
-				stackedGraph: true,
-
 				labels: labels,
 				legend: 'always',
 				title: 'Volume vs. Avg. Item Price',
+
+				logscale: true,
+
 				series: {
 					'Avg. Price': {
 						axis: 'y'
 					},
 					'Volume': {
-						axis: 'y2'
+						axis: 'y'
+					}
+				},
+
+				axes: {
+					y: {
+						labelsKMB: true
 					}
 				},
 
