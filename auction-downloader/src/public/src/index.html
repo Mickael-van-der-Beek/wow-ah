@@ -34,10 +34,10 @@
 				legend: 'always',
 				title: 'Volume vs. Avg. Item Price',
 				series: {
-					avgPrice: {
+					'Avg. Price': {
 						axis: 'y'
 					},
-					volume: {
+					'Volume': {
 						axis: 'y2'
 					}
 				}
@@ -67,7 +67,7 @@
 				});
 				var ele = document.getElementById('timeseries');
 
-				drawTimeseries(ele, data, ['date', 'volume', 'avgPrice']);
+				drawTimeseries(ele, data, ['Date', 'Volume', 'Avg. Price']);
 			};
 
 			request.onerror = function (e) {
