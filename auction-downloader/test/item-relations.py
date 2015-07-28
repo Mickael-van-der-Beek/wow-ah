@@ -8,22 +8,29 @@ uniqueItemsDump = open("./unique-items-dump2.csv")
 uniqueItemIds = map(lambda uniqueItemId: uniqueItemId.strip(), uniqueItemsDump.readlines())
 uniqueItemsDump.close()
 
-with open("./unique-items-dump3.tsv", "a") as uniqueItemIdsUpdated:
+with open("./unique-items-dump4.tsv", "a") as uniqueItemIdsUpdated:
 
-	with open("./item-relations-dump2.tsv", "a") as itemRelations:
+	with open("./item-relations-dump3.tsv", "a") as itemRelations:
 
-		with open("./item-recipes-dump2.tsv", "a") as itemRecipes:
+		with open("./item-recipes-dump3.tsv", "a") as itemRecipes:
 
 			i = 0
 
 			while i < len(uniqueItemIds):
 
-				if randint(0, 10) <= 5:
+				if (i % 2) == 0:
 					sleep(3)
 
 				uniqueItemId = uniqueItemIds[i]
 
-				req = requests.get("http://www.wowhead.com/item=" + uniqueItemId + "&xml")
+				try:
+					req = requests.get("http://www.wowhead.com/item=" + uniqueItemId + "&xml")
+				except requests.exceptions.RequestException as e:
+					print "\n>", e
+					print traceback.format_exc()
+					print ">item_id=", uniqueItemId
+					print ">index=", i
+					continue
 
 				i += 1
 

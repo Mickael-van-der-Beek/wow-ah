@@ -1,0 +1,956 @@
+118	Minor Healing Potion	2447	Peacebloom	1	
+118	Minor Healing Potion	765	Silverleaf	1	
+118	Minor Healing Potion	3371	Crystal Vial	1	
+733	Westfall Stew	769	Chunk of Boar Meat	1	
+733	Westfall Stew	159	Refreshing Spring Water	1	
+785	Mageroyal	108318	Mageroyal Petal	9	
+858	Lesser Healing Potion	118	Minor Healing Potion	1	
+858	Lesser Healing Potion	2450	Briarthorn	1	
+929	Healing Potion	2453	Bruiseweed	1	
+929	Healing Potion	2450	Briarthorn	1	
+929	Healing Potion	3371	Crystal Vial	1	
+954	Scroll of Strength	39354	Light Parchment	1	
+954	Scroll of Strength	39469	Moonglow Ink	1	
+1181	Scroll of Spirit	39354	Light Parchment	1	
+1181	Scroll of Spirit	39469	Moonglow Ink	1	
+1251	Linen Bandage	2589	Linen Cloth	1	
+1477	Scroll of Agility II	39354	Light Parchment	1	
+1477	Scroll of Agility II	39774	Midnight Ink	1	
+1710	Greater Healing Potion	3357	Liferoot	1	
+1710	Greater Healing Potion	3356	Kingsblood	1	
+1710	Greater Healing Potion	3371	Crystal Vial	1	
+1711	Scroll of Stamina II	39354	Light Parchment	1	
+1711	Scroll of Stamina II	39774	Midnight Ink	1	
+2289	Scroll of Strength II	39354	Light Parchment	1	
+2289	Scroll of Strength II	39774	Midnight Ink	1	
+2290	Scroll of Intellect II	39354	Light Parchment	1	
+2290	Scroll of Intellect II	39774	Midnight Ink	1	
+2300	Embossed Leather Vest	2318	Light Leather	8	
+2300	Embossed Leather Vest	2320	Coarse Thread	4	
+2302	Handstitched Leather Boots	2318	Light Leather	2	
+2302	Handstitched Leather Boots	2320	Coarse Thread	1	
+2304	Light Armor Kit	2318	Light Leather	1	
+2310	Embossed Leather Cloak	2318	Light Leather	5	
+2310	Embossed Leather Cloak	2320	Coarse Thread	2	
+2313	Medium Armor Kit	2319	Medium Leather	4	
+2313	Medium Armor Kit	2320	Coarse Thread	1	
+2314	Toughened Leather Armor	2319	Medium Leather	10	
+2314	Toughened Leather Armor	4231	Cured Light Hide	6	
+2314	Toughened Leather Armor	2321	Fine Thread	2	
+2315	Dark Leather Boots	2319	Medium Leather	4	
+2315	Dark Leather Boots	2321	Fine Thread	2	
+2315	Dark Leather Boots	4340	Gray Dye	1	
+2316	Dark Leather Cloak	2319	Medium Leather	8	
+2316	Dark Leather Cloak	2321	Fine Thread	1	
+2316	Dark Leather Cloak	4340	Gray Dye	1	
+2318	Light Leather	2934	Ruined Leather Scraps	3	
+2319	Medium Leather	2318	Light Leather	4	
+2449	Earthroot	108319	Earthroot Stem	9	
+2450	Briarthorn	108320	Briarthorn Bramble	9	
+2452	Swiftthistle	108321	Swiftthistle Leaf	9	
+2453	Bruiseweed	108322	Bruiseweed Stem	9	
+2454	Elixir of Lion's Strength	2449	Earthroot	1	
+2454	Elixir of Lion's Strength	765	Silverleaf	1	
+2454	Elixir of Lion's Strength	3371	Crystal Vial	1	
+2455	Minor Mana Potion	785	Mageroyal	1	
+2455	Minor Mana Potion	765	Silverleaf	1	
+2455	Minor Mana Potion	3371	Crystal Vial	1	
+2456	Minor Rejuvenation Potion	785	Mageroyal	2	
+2456	Minor Rejuvenation Potion	2447	Peacebloom	1	
+2456	Minor Rejuvenation Potion	3371	Crystal Vial	1	
+2458	Elixir of Minor Fortitude	2449	Earthroot	2	
+2458	Elixir of Minor Fortitude	2447	Peacebloom	1	
+2458	Elixir of Minor Fortitude	3371	Crystal Vial	1	
+2459	Swiftness Potion	2452	Swiftthistle	1	
+2459	Swiftness Potion	2450	Briarthorn	1	
+2459	Swiftness Potion	3371	Crystal Vial	1	
+2568	Brown Linen Vest	2996	Bolt of Linen Cloth	1	
+2568	Brown Linen Vest	2320	Coarse Thread	1	
+2569	Linen Boots	2996	Bolt of Linen Cloth	3	
+2569	Linen Boots	2320	Coarse Thread	1	
+2569	Linen Boots	2318	Light Leather	1	
+2575	Red Linen Shirt	2996	Bolt of Linen Cloth	2	
+2575	Red Linen Shirt	2320	Coarse Thread	1	
+2575	Red Linen Shirt	2604	Red Dye	1	
+2578	Barbaric Linen Vest	2996	Bolt of Linen Cloth	4	
+2578	Barbaric Linen Vest	2318	Light Leather	1	
+2578	Barbaric Linen Vest	2321	Fine Thread	1	
+2579	Green Linen Shirt	2996	Bolt of Linen Cloth	3	
+2579	Green Linen Shirt	2321	Fine Thread	1	
+2579	Green Linen Shirt	2605	Green Dye	1	
+2581	Heavy Linen Bandage	2589	Linen Cloth	2	
+2680	Spiced Wolf Meat	2672	Stringy Wolf Meat	1	
+2681	Roasted Boar Meat	769	Chunk of Boar Meat	1	
+2684	Coyote Steak	2673	Coyote Meat	1	
+2771	Tin Ore	108295	Tin Ore Nugget	9	
+2772	Iron Ore	108297	Iron Ore Nugget	9	
+2775	Silver Ore	108294	Silver Ore Nugget	9	
+2776	Gold Ore	108296	Gold Ore Nugget	9	
+2840	Copper Bar	2770	Copper Ore	1	
+2841	Bronze Bar	2840	Copper Bar	1	
+2841	Bronze Bar	3576	Tin Bar	1	
+2842	Silver Bar	2775	Silver Ore	1	
+2850	Bronze Shortsword	2841	Bronze Bar	5	
+2850	Bronze Shortsword	2880	Weak Flux	4	
+2850	Bronze Shortsword	2319	Medium Leather	2	
+2851	Copper Chain Belt	2840	Copper Bar	6	
+2852	Copper Chain Pants	2840	Copper Bar	4	
+2853	Copper Bracers	2840	Copper Bar	2	
+2854	Runed Copper Bracers	2840	Copper Bar	10	
+2854	Runed Copper Bracers	3470	Rough Grinding Stone	3	
+2857	Runed Copper Belt	2840	Copper Bar	10	
+2862	Rough Sharpening Stone	2835	Rough Stone	1	
+2863	Coarse Sharpening Stone	2836	Coarse Stone	1	
+2865	Rough Bronze Leggings	2841	Bronze Bar	6	
+2866	Rough Bronze Cuirass	2841	Bronze Bar	7	
+2868	Patterned Bronze Bracers	2841	Bronze Bar	5	
+2868	Patterned Bronze Bracers	3478	Coarse Grinding Stone	2	
+2871	Heavy Sharpening Stone	2838	Heavy Stone	1	
+2996	Bolt of Linen Cloth	2589	Linen Cloth	2	
+2997	Bolt of Woolen Cloth	2592	Wool Cloth	3	
+3220	Blood Sausage	3173	Bear Meat	1	
+3355	Wild Steelbloom	108323	Wild Steelbloom Petal	9	
+3356	Kingsblood	108324	Kingsblood Petal	9	
+3357	Liferoot	108325	Liferoot Stem	9	
+3358	Khadgar's Whisker	108326	Khadgar's Whisker Stem	9	
+3369	Grave Moss	108327	Grave Moss Leaf	9	
+3382	Weak Troll's Blood Elixir	2447	Peacebloom	1	
+3382	Weak Troll's Blood Elixir	2449	Earthroot	2	
+3382	Weak Troll's Blood Elixir	3371	Crystal Vial	1	
+3383	Elixir of Wisdom	785	Mageroyal	1	
+3383	Elixir of Wisdom	2450	Briarthorn	2	
+3383	Elixir of Wisdom	3371	Crystal Vial	1	
+3385	Lesser Mana Potion	785	Mageroyal	1	
+3385	Lesser Mana Potion	3820	Stranglekelp	1	
+3385	Lesser Mana Potion	3371	Crystal Vial	1	
+3388	Strong Troll's Blood Elixir	2453	Bruiseweed	2	
+3388	Strong Troll's Blood Elixir	2450	Briarthorn	2	
+3388	Strong Troll's Blood Elixir	3371	Crystal Vial	1	
+3389	Elixir of Defense	3355	Wild Steelbloom	1	
+3389	Elixir of Defense	3820	Stranglekelp	1	
+3389	Elixir of Defense	3371	Crystal Vial	1	
+3391	Elixir of Ogre's Strength	2449	Earthroot	1	
+3391	Elixir of Ogre's Strength	3356	Kingsblood	1	
+3391	Elixir of Ogre's Strength	3371	Crystal Vial	1	
+3469	Copper Chain Boots	2840	Copper Bar	8	
+3470	Rough Grinding Stone	2835	Rough Stone	2	
+3472	Runed Copper Gauntlets	2840	Copper Bar	8	
+3472	Runed Copper Gauntlets	3470	Rough Grinding Stone	2	
+3478	Coarse Grinding Stone	2836	Coarse Stone	2	
+3480	Rough Bronze Shoulders	2841	Bronze Bar	5	
+3480	Rough Bronze Shoulders	3478	Coarse Grinding Stone	1	
+3482	Silvered Bronze Boots	2841	Bronze Bar	6	
+3482	Silvered Bronze Boots	2842	Silver Bar	1	
+3482	Silvered Bronze Boots	3478	Coarse Grinding Stone	2	
+3483	Silvered Bronze Gauntlets	2841	Bronze Bar	8	
+3483	Silvered Bronze Gauntlets	2842	Silver Bar	1	
+3483	Silvered Bronze Gauntlets	3478	Coarse Grinding Stone	2	
+3486	Heavy Grinding Stone	2838	Heavy Stone	3	
+3487	Heavy Copper Broadsword	2840	Copper Bar	14	
+3487	Heavy Copper Broadsword	2880	Weak Flux	2	
+3487	Heavy Copper Broadsword	818	Tigerseye	2	
+3487	Heavy Copper Broadsword	2319	Medium Leather	2	
+3530	Wool Bandage	2592	Wool Cloth	1	
+3531	Heavy Wool Bandage	2592	Wool Cloth	2	
+3575	Iron Bar	2772	Iron Ore	1	
+3576	Tin Bar	2771	Tin Ore	1	
+3577	Gold Bar	2776	Gold Ore	1	
+3664	Crocolisk Gumbo	3667	Tender Crocolisk Meat	1	
+3666	Gooey Spider Cake	2251	Gooey Spider Leg	2	
+3727	Hot Lion Chops	3731	Lion Meat	1	
+3818	Fadeleaf	108328	Fadeleaf Petal	9	
+3819	Dragon's Teeth	108329	Dragon's Teeth Stem	9	
+3820	Stranglekelp	108330	Stranglekelp Blade	9	
+3821	Goldthorn	108331	Goldthorn Bramble	9	
+3823	Lesser Invisibility Potion	3818	Fadeleaf	1	
+3823	Lesser Invisibility Potion	3355	Wild Steelbloom	1	
+3823	Lesser Invisibility Potion	3371	Crystal Vial	1	
+3824	Shadow Oil	3369	Grave Moss	2	
+3824	Shadow Oil	3371	Crystal Vial	1	
+3827	Mana Potion	3820	Stranglekelp	1	
+3827	Mana Potion	3356	Kingsblood	1	
+3827	Mana Potion	3371	Crystal Vial	1	
+3829	Frost Oil	3358	Khadgar's Whisker	4	
+3829	Frost Oil	3819	Dragon's Teeth	2	
+3829	Frost Oil	3371	Crystal Vial	1	
+3835	Green Iron Bracers	3575	Iron Bar	6	
+3835	Green Iron Bracers	2605	Green Dye	1	
+3842	Green Iron Leggings	3575	Iron Bar	8	
+3842	Green Iron Leggings	3486	Heavy Grinding Stone	1	
+3842	Green Iron Leggings	2605	Green Dye	1	
+3843	Golden Scale Leggings	3575	Iron Bar	10	
+3843	Golden Scale Leggings	3577	Gold Bar	2	
+3843	Golden Scale Leggings	3486	Heavy Grinding Stone	1	
+3850	Jade Serpentblade	3575	Iron Bar	8	
+3850	Jade Serpentblade	3466	Strong Flux	2	
+3850	Jade Serpentblade	3486	Heavy Grinding Stone	2	
+3850	Jade Serpentblade	1529	Jade	2	
+3850	Jade Serpentblade	4234	Heavy Leather	3	
+3858	Mithril Ore	108300	Mithril Ore Nugget	9	
+3859	Steel Bar	3575	Iron Bar	1	
+3859	Steel Bar	3857	Coal	1	
+3860	Mithril Bar	3858	Mithril Ore	1	
+3928	Superior Healing Potion	8838	Sungrass	1	
+3928	Superior Healing Potion	3358	Khadgar's Whisker	1	
+3928	Superior Healing Potion	3371	Crystal Vial	1	
+4231	Cured Light Hide	783	Light Hide	1	
+4231	Cured Light Hide	4289	Salt	1	
+4233	Cured Medium Hide	4232	Medium Hide	1	
+4233	Cured Medium Hide	4289	Salt	1	
+4234	Heavy Leather	2319	Medium Leather	5	
+4236	Cured Heavy Hide	4235	Heavy Hide	1	
+4236	Cured Heavy Hide	4289	Salt	3	
+4237	Handstitched Leather Belt	2318	Light Leather	6	
+4237	Handstitched Leather Belt	2320	Coarse Thread	1	
+4239	Embossed Leather Gloves	2318	Light Leather	3	
+4239	Embossed Leather Gloves	2320	Coarse Thread	2	
+4240	Woolen Bag	2997	Bolt of Woolen Cloth	3	
+4240	Woolen Bag	2321	Fine Thread	1	
+4243	Fine Leather Tunic	4231	Cured Light Hide	3	
+4243	Fine Leather Tunic	2318	Light Leather	6	
+4243	Fine Leather Tunic	2320	Coarse Thread	4	
+4245	Small Silk Pack	4305	Bolt of Silk Cloth	3	
+4245	Small Silk Pack	4234	Heavy Leather	2	
+4245	Small Silk Pack	2321	Fine Thread	3	
+4246	Fine Leather Belt	2318	Light Leather	6	
+4246	Fine Leather Belt	2320	Coarse Thread	2	
+4247	Hillman's Leather Gloves	2319	Medium Leather	14	
+4247	Hillman's Leather Gloves	2321	Fine Thread	4	
+4249	Dark Leather Belt	4246	Fine Leather Belt	1	
+4249	Dark Leather Belt	4233	Cured Medium Hide	1	
+4249	Dark Leather Belt	2321	Fine Thread	2	
+4249	Dark Leather Belt	4340	Gray Dye	1	
+4251	Hillman's Shoulders	4233	Cured Medium Hide	1	
+4251	Hillman's Shoulders	2319	Medium Leather	4	
+4251	Hillman's Shoulders	2321	Fine Thread	1	
+4257	Green Leather Belt	4236	Cured Heavy Hide	1	
+4257	Green Leather Belt	4234	Heavy Leather	5	
+4257	Green Leather Belt	2321	Fine Thread	1	
+4257	Green Leather Belt	2605	Green Dye	1	
+4257	Green Leather Belt	7071	Iron Buckle	1	
+4259	Green Leather Bracers	4236	Cured Heavy Hide	2	
+4259	Green Leather Bracers	4234	Heavy Leather	6	
+4259	Green Leather Bracers	2605	Green Dye	1	
+4259	Green Leather Bracers	2321	Fine Thread	1	
+4265	Heavy Armor Kit	4234	Heavy Leather	5	
+4265	Heavy Armor Kit	2321	Fine Thread	1	
+4304	Thick Leather	4234	Heavy Leather	6	
+4305	Bolt of Silk Cloth	4306	Silk Cloth	4	
+4307	Heavy Linen Gloves	2996	Bolt of Linen Cloth	2	
+4307	Heavy Linen Gloves	2320	Coarse Thread	1	
+4310	Heavy Woolen Gloves	2997	Bolt of Woolen Cloth	3	
+4310	Heavy Woolen Gloves	2321	Fine Thread	1	
+4314	Double-Stitched Woolen Shoulders	2997	Bolt of Woolen Cloth	3	
+4314	Double-Stitched Woolen Shoulders	2321	Fine Thread	2	
+4316	Heavy Woolen Pants	2997	Bolt of Woolen Cloth	5	
+4316	Heavy Woolen Pants	2321	Fine Thread	4	
+4320	Spidersilk Boots	4305	Bolt of Silk Cloth	2	
+4320	Spidersilk Boots	2319	Medium Leather	4	
+4320	Spidersilk Boots	3182	Spider's Silk	4	
+4320	Spidersilk Boots	5500	Iridescent Pearl	2	
+4324	Azure Silk Vest	4305	Bolt of Silk Cloth	5	
+4324	Azure Silk Vest	6260	Blue Dye	4	
+4330	Stylish Red Shirt	2997	Bolt of Woolen Cloth	3	
+4330	Stylish Red Shirt	2604	Red Dye	2	
+4330	Stylish Red Shirt	2321	Fine Thread	1	
+4332	Bright Yellow Shirt	4305	Bolt of Silk Cloth	1	
+4332	Bright Yellow Shirt	4341	Yellow Dye	1	
+4332	Bright Yellow Shirt	2321	Fine Thread	1	
+4334	Formal White Shirt	4305	Bolt of Silk Cloth	3	
+4334	Formal White Shirt	2324	Bleach	2	
+4334	Formal White Shirt	2321	Fine Thread	1	
+4339	Bolt of Mageweave	4338	Mageweave Cloth	4	
+4344	Brown Linen Shirt	2996	Bolt of Linen Cloth	1	
+4344	Brown Linen Shirt	2320	Coarse Thread	1	
+4357	Rough Blasting Powder	2835	Rough Stone	1	
+4358	Rough Dynamite	4357	Rough Blasting Powder	1	
+4358	Rough Dynamite	2589	Linen Cloth	1	
+4359	Handful of Copper Bolts	2840	Copper Bar	1	
+4360	Rough Copper Bomb	4357	Rough Blasting Powder	2	
+4360	Rough Copper Bomb	4359	Handful of Copper Bolts	1	
+4361	Bent Copper Tube	2840	Copper Bar	2	
+4361	Bent Copper Tube	2880	Weak Flux	1	
+4362	Rough Boomstick	2840	Copper Bar	4	
+4362	Rough Boomstick	4359	Handful of Copper Bolts	3	
+4362	Rough Boomstick	4399	Wooden Stock	1	
+4364	Coarse Blasting Powder	2836	Coarse Stone	1	
+4368	Flying Tiger Goggles	2841	Bronze Bar	8	
+4368	Flying Tiger Goggles	818	Tigerseye	2	
+4369	Deadly Blunderbuss	4371	Bronze Tube	4	
+4369	Deadly Blunderbuss	4406	Standard Scope	1	
+4369	Deadly Blunderbuss	4399	Wooden Stock	1	
+4371	Bronze Tube	2841	Bronze Bar	2	
+4372	Lovingly Crafted Boomstick	4371	Bronze Tube	2	
+4372	Lovingly Crafted Boomstick	4359	Handful of Copper Bolts	2	
+4372	Lovingly Crafted Boomstick	4400	Heavy Stock	1	
+4372	Lovingly Crafted Boomstick	1206	Moss Agate	3	
+4375	Whirring Bronze Gizmo	2841	Bronze Bar	2	
+4375	Whirring Bronze Gizmo	2592	Wool Cloth	1	
+4377	Heavy Blasting Powder	2838	Heavy Stone	1	
+4378	Heavy Dynamite	4377	Heavy Blasting Powder	2	
+4378	Heavy Dynamite	2592	Wool Cloth	1	
+4379	Silver-Plated Shotgun	4371	Bronze Tube	2	
+4379	Silver-Plated Shotgun	4375	Whirring Bronze Gizmo	2	
+4379	Silver-Plated Shotgun	4400	Heavy Stock	1	
+4379	Silver-Plated Shotgun	2842	Silver Bar	3	
+4380	Big Bronze Bomb	4377	Heavy Blasting Powder	2	
+4380	Big Bronze Bomb	2841	Bronze Bar	3	
+4380	Big Bronze Bomb	4404	Silver Contact	1	
+4382	Bronze Framework	2841	Bronze Bar	2	
+4382	Bronze Framework	2319	Medium Leather	1	
+4382	Bronze Framework	2592	Wool Cloth	1	
+4384	Explosive Sheep	4382	Bronze Framework	1	
+4384	Explosive Sheep	4375	Whirring Bronze Gizmo	1	
+4384	Explosive Sheep	4377	Heavy Blasting Powder	2	
+4384	Explosive Sheep	2592	Wool Cloth	2	
+4385	Green Tinted Goggles	2319	Medium Leather	4	
+4385	Green Tinted Goggles	1206	Moss Agate	2	
+4385	Green Tinted Goggles	4368	Flying Tiger Goggles	1	
+4389	Gyrochronatom	3575	Iron Bar	1	
+4389	Gyrochronatom	10558	Gold Power Core	1	
+4391	Compact Harvest Reaper Kit	4387	Iron Strut	2	
+4391	Compact Harvest Reaper Kit	4382	Bronze Framework	1	
+4391	Compact Harvest Reaper Kit	4389	Gyrochronatom	2	
+4391	Compact Harvest Reaper Kit	4234	Heavy Leather	4	
+4394	Big Iron Bomb	3575	Iron Bar	3	
+4394	Big Iron Bomb	4377	Heavy Blasting Powder	3	
+4394	Big Iron Bomb	4404	Silver Contact	1	
+4401	Mechanical Squirrel Box	4359	Handful of Copper Bolts	1	
+4401	Mechanical Squirrel Box	2840	Copper Bar	1	
+4401	Mechanical Squirrel Box	774	Malachite	2	
+4404	Silver Contact	2842	Silver Bar	1	
+4405	Crude Scope	2840	Copper Bar	2	
+4405	Crude Scope	774	Malachite	2	
+4405	Crude Scope	4359	Handful of Copper Bolts	1	
+4407	Accurate Scope	4371	Bronze Tube	1	
+4407	Accurate Scope	1529	Jade	1	
+4407	Accurate Scope	3864	Citrine	1	
+4457	Barbecued Buzzard Wing	3404	Buzzard Wing	1	
+4593	Bristle Whisker Catfish	6308	Raw Bristle Whisker Catfish	1	
+4625	Firebloom	108332	Firebloom Petal	9	
+5472	Kaldorei Spider Kabob	5465	Small Spider Leg	1	
+5507	Ornate Spyglass	4371	Bronze Tube	2	
+5507	Ornate Spyglass	4375	Whirring Bronze Gizmo	2	
+5507	Ornate Spyglass	1206	Moss Agate	1	
+5525	Boiled Clams	5503	Clam Meat	1	
+5525	Boiled Clams	159	Refreshing Spring Water	1	
+5527	Goblin Deviled Clams	5504	Tangy Clam Meat	1	
+5541	Iridescent Hammer	2841	Bronze Bar	10	
+5541	Iridescent Hammer	3466	Strong Flux	1	
+5541	Iridescent Hammer	5500	Iridescent Pearl	1	
+5541	Iridescent Hammer	3478	Coarse Grinding Stone	2	
+5541	Iridescent Hammer	2319	Medium Leather	2	
+5766	Lesser Wizard's Robe	4305	Bolt of Silk Cloth	2	
+5766	Lesser Wizard's Robe	2321	Fine Thread	2	
+5766	Lesser Wizard's Robe	3182	Spider's Silk	2	
+5961	Dark Leather Pants	2319	Medium Leather	12	
+5961	Dark Leather Pants	4340	Gray Dye	1	
+5961	Dark Leather Pants	2321	Fine Thread	1	
+5962	Guardian Pants	4234	Heavy Leather	12	
+5962	Guardian Pants	4305	Bolt of Silk Cloth	2	
+5962	Guardian Pants	2321	Fine Thread	2	
+5964	Barbaric Shoulders	4234	Heavy Leather	8	
+5964	Barbaric Shoulders	4236	Cured Heavy Hide	1	
+5964	Barbaric Shoulders	2321	Fine Thread	2	
+5966	Guardian Gloves	4234	Heavy Leather	4	
+5966	Guardian Gloves	4236	Cured Heavy Hide	1	
+5966	Guardian Gloves	4291	Silken Thread	1	
+5996	Elixir of Water Breathing	3820	Stranglekelp	1	
+5996	Elixir of Water Breathing	6370	Blackmouth Oil	2	
+5996	Elixir of Water Breathing	3371	Crystal Vial	1	
+5997	Elixir of Minor Defense	765	Silverleaf	2	
+5997	Elixir of Minor Defense	3371	Crystal Vial	1	
+6037	Truesilver Bar	7911	Truesilver Ore	1	
+6040	Golden Scale Bracers	3859	Steel Bar	5	
+6040	Golden Scale Bracers	3486	Heavy Grinding Stone	2	
+6043	Iron Counterweight	3575	Iron Bar	4	
+6043	Iron Counterweight	3478	Coarse Grinding Stone	2	
+6043	Iron Counterweight	1705	Lesser Moonstone	1	
+6149	Greater Mana Potion	3358	Khadgar's Whisker	1	
+6149	Greater Mana Potion	3821	Goldthorn	1	
+6149	Greater Mana Potion	3371	Crystal Vial	1	
+6219	Arclight Spanner	2840	Copper Bar	6	
+6239	Red Linen Vest	2996	Bolt of Linen Cloth	3	
+6239	Red Linen Vest	2320	Coarse Thread	1	
+6239	Red Linen Vest	2604	Red Dye	1	
+6290	Brilliant Smallfish	6291	Raw Brilliant Smallfish	1	
+6350	Rough Bronze Boots	2841	Bronze Bar	6	
+6350	Rough Bronze Boots	3470	Rough Grinding Stone	6	
+6372	Swim Speed Potion	2452	Swiftthistle	1	
+6372	Swim Speed Potion	6370	Blackmouth Oil	1	
+6372	Swim Speed Potion	3371	Crystal Vial	1	
+6385	Stylish Green Shirt	2997	Bolt of Woolen Cloth	4	
+6385	Stylish Green Shirt	2605	Green Dye	2	
+6385	Stylish Green Shirt	4340	Gray Dye	1	
+6385	Stylish Green Shirt	2321	Fine Thread	1	
+6450	Silk Bandage	4306	Silk Cloth	1	
+6451	Heavy Silk Bandage	4306	Silk Cloth	2	
+6467	Deviate Scale Gloves	6470	Deviate Scale	5	
+6467	Deviate Scale Gloves	2321	Fine Thread	2	
+6533	Aquadynamic Fish Attractor	2841	Bronze Bar	2	
+6533	Aquadynamic Fish Attractor	6530	Nightcrawlers	1	
+6533	Aquadynamic Fish Attractor	4364	Coarse Blasting Powder	1	
+6657	Savory Deviate Delight	6522	Deviate Fish	1	
+6662	Elixir of Giant Growth	6522	Deviate Fish	1	
+6662	Elixir of Giant Growth	2449	Earthroot	1	
+6662	Elixir of Giant Growth	3371	Crystal Vial	1	
+6709	Moonglow Vest	2318	Light Leather	6	
+6709	Moonglow Vest	4231	Cured Light Hide	1	
+6709	Moonglow Vest	2320	Coarse Thread	4	
+6709	Moonglow Vest	5498	Small Lustrous Pearl	1	
+6712	Clockwork Box	2841	Bronze Bar	3	
+6795	White Swashbuckler's Shirt	4305	Bolt of Silk Cloth	3	
+6795	White Swashbuckler's Shirt	2324	Bleach	2	
+6795	White Swashbuckler's Shirt	4291	Silken Thread	1	
+6796	Red Swashbuckler's Shirt	4305	Bolt of Silk Cloth	3	
+6796	Red Swashbuckler's Shirt	2604	Red Dye	2	
+6796	Red Swashbuckler's Shirt	4291	Silken Thread	1	
+6836	Dress Shoes	4339	Bolt of Mageweave	4	
+6836	Dress Shoes	4304	Thick Leather	2	
+6888	Herb Baked Egg	6889	Small Egg	1	
+7046	Azure Silk Pants	4305	Bolt of Silk Cloth	4	
+7046	Azure Silk Pants	6260	Blue Dye	2	
+7046	Azure Silk Pants	2321	Fine Thread	3	
+7048	Azure Silk Hood	4305	Bolt of Silk Cloth	2	
+7048	Azure Silk Hood	6260	Blue Dye	2	
+7048	Azure Silk Hood	2321	Fine Thread	1	
+7050	Silk Headband	4305	Bolt of Silk Cloth	3	
+7050	Silk Headband	2321	Fine Thread	2	
+7051	Earthen Vest	4305	Bolt of Silk Cloth	3	
+7051	Earthen Vest	7067	Elemental Earth	1	
+7051	Earthen Vest	2321	Fine Thread	2	
+7057	Green Silken Shoulders	4305	Bolt of Silk Cloth	5	
+7057	Green Silken Shoulders	4291	Silken Thread	2	
+7058	Crimson Silk Vest	4305	Bolt of Silk Cloth	4	
+7058	Crimson Silk Vest	2604	Red Dye	2	
+7058	Crimson Silk Vest	2321	Fine Thread	2	
+7062	Crimson Silk Pantaloons	4305	Bolt of Silk Cloth	4	
+7062	Crimson Silk Pantaloons	2604	Red Dye	2	
+7062	Crimson Silk Pantaloons	4291	Silken Thread	2	
+7068	Elemental Fire	7077	Heart of Fire	1	
+7071	Iron Buckle	3575	Iron Bar	1	
+7076	Essence of Earth	7078	Essence of Fire	1	
+7078	Essence of Fire	7082	Essence of Air	1	
+7080	Essence of Water	7076	Essence of Earth	1	
+7082	Essence of Air	7080	Essence of Water	1	
+7191	Fused Wiring	2840	Copper Bar	6	
+7191	Fused Wiring	7078	Essence of Fire	2	
+7277	Handstitched Leather Bracers	2318	Light Leather	2	
+7277	Handstitched Leather Bracers	2320	Coarse Thread	3	
+7348	Fletcher's Gloves	2319	Medium Leather	8	
+7348	Fletcher's Gloves	4233	Cured Medium Hide	4	
+7348	Fletcher's Gloves	2321	Fine Thread	2	
+7374	Dusky Leather Armor	4234	Heavy Leather	10	
+7374	Dusky Leather Armor	3824	Shadow Oil	1	
+7374	Dusky Leather Armor	2321	Fine Thread	2	
+7378	Dusky Bracers	4234	Heavy Leather	16	
+7378	Dusky Bracers	2325	Black Dye	1	
+7378	Dusky Bracers	4291	Silken Thread	2	
+7387	Dusky Belt	4234	Heavy Leather	10	
+7387	Dusky Belt	4305	Bolt of Silk Cloth	2	
+7387	Dusky Belt	2325	Black Dye	2	
+7387	Dusky Belt	7071	Iron Buckle	1	
+7911	Truesilver Ore	108299	Truesilver Ore Nugget	9	
+7919	Heavy Mithril Gauntlet	3860	Mithril Bar	6	
+7919	Heavy Mithril Gauntlet	4338	Mageweave Cloth	4	
+7931	Mithril Coif	3860	Mithril Bar	10	
+7931	Mithril Coif	4338	Mageweave Cloth	6	
+7939	Truesilver Breastplate	3860	Mithril Bar	12	
+7939	Truesilver Breastplate	6037	Truesilver Bar	12	
+7939	Truesilver Breastplate	7910	Star Ruby	2	
+7939	Truesilver Breastplate	7971	Black Pearl	2	
+7939	Truesilver Breastplate	7966	Solid Grinding Stone	2	
+7956	Bronze Warhammer	2841	Bronze Bar	8	
+7956	Bronze Warhammer	3466	Strong Flux	1	
+7956	Bronze Warhammer	2319	Medium Leather	1	
+7957	Bronze Greatsword	2841	Bronze Bar	12	
+7957	Bronze Greatsword	3466	Strong Flux	2	
+7957	Bronze Greatsword	2319	Medium Leather	2	
+7958	Bronze Battle Axe	2841	Bronze Bar	14	
+7958	Bronze Battle Axe	3466	Strong Flux	1	
+7958	Bronze Battle Axe	2319	Medium Leather	2	
+7964	Solid Sharpening Stone	7912	Solid Stone	1	
+7966	Solid Grinding Stone	7912	Solid Stone	4	
+8170	Rugged Leather	4304	Thick Leather	6	
+8172	Cured Thick Hide	8169	Thick Hide	1	
+8172	Cured Thick Hide	8150	Deeprock Salt	1	
+8173	Thick Armor Kit	4304	Thick Leather	5	
+8173	Thick Armor Kit	4291	Silken Thread	1	
+8175	Nightscape Tunic	4304	Thick Leather	7	
+8175	Nightscape Tunic	4291	Silken Thread	2	
+8176	Nightscape Headband	4304	Thick Leather	5	
+8176	Nightscape Headband	4291	Silken Thread	2	
+8189	Turtle Scale Breastplate	4304	Thick Leather	6	
+8189	Turtle Scale Breastplate	8167	Turtle Scale	12	
+8189	Turtle Scale Breastplate	8343	Heavy Silken Thread	1	
+8193	Nightscape Pants	4304	Thick Leather	14	
+8193	Nightscape Pants	4291	Silken Thread	4	
+8197	Nightscape Boots	4304	Thick Leather	16	
+8197	Nightscape Boots	8343	Heavy Silken Thread	2	
+8208	Tough Scorpid Helm	4304	Thick Leather	10	
+8208	Tough Scorpid Helm	8154	Scorpid Scale	20	
+8208	Tough Scorpid Helm	8343	Heavy Silken Thread	2	
+8345	Wolfshead Helm	4304	Thick Leather	18	
+8345	Wolfshead Helm	8153	Wildvine	12	
+8345	Wolfshead Helm	8172	Cured Thick Hide	4	
+8345	Wolfshead Helm	8343	Heavy Silken Thread	1	
+8544	Mageweave Bandage	4338	Mageweave Cloth	1	
+8545	Heavy Mageweave Bandage	4338	Mageweave Cloth	2	
+8827	Elixir of Water Walking	44958	Ethereal Oil	3	
+8827	Elixir of Water Walking	3371	Crystal Vial	1	
+8831	Purple Lotus	108333	Purple Lotus Petal	9	
+8836	Arthas' Tears	108334	Arthas' Tears Petal	9	
+8838	Sungrass	108335	Sungrass Stalk	9	
+8839	Blindweed	108336	Blindweed Stem	9	
+8845	Ghost Mushroom	108337	Ghost Mushroom Cap	9	
+8846	Gromsblood	108338	Gromsblood Leaf	9	
+8951	Elixir of Greater Defense	3355	Wild Steelbloom	1	
+8951	Elixir of Greater Defense	3821	Goldthorn	1	
+8951	Elixir of Greater Defense	3371	Crystal Vial	1	
+9154	Elixir of Detect Undead	8831	Purple Lotus	1	
+9154	Elixir of Detect Undead	3371	Crystal Vial	1	
+9172	Invisibility Potion	8845	Ghost Mushroom	1	
+9172	Invisibility Potion	8838	Sungrass	1	
+9172	Invisibility Potion	3371	Crystal Vial	1	
+9187	Elixir of Greater Agility	8838	Sungrass	1	
+9187	Elixir of Greater Agility	3821	Goldthorn	1	
+9187	Elixir of Greater Agility	3371	Crystal Vial	1	
+9318	Red Firework	4377	Heavy Blasting Powder	1	
+9318	Red Firework	4234	Heavy Leather	1	
+9998	Black Mageweave Vest	4339	Bolt of Mageweave	2	
+9998	Black Mageweave Vest	4291	Silken Thread	3	
+9999	Black Mageweave Leggings	4339	Bolt of Mageweave	2	
+9999	Black Mageweave Leggings	4291	Silken Thread	3	
+10003	Black Mageweave Gloves	4339	Bolt of Mageweave	2	
+10003	Black Mageweave Gloves	8343	Heavy Silken Thread	2	
+10019	Dreamweave Gloves	4339	Bolt of Mageweave	4	
+10019	Dreamweave Gloves	8153	Wildvine	4	
+10019	Dreamweave Gloves	10286	Heart of the Wild	2	
+10019	Dreamweave Gloves	8343	Heavy Silken Thread	2	
+10024	Black Mageweave Headband	4339	Bolt of Mageweave	3	
+10024	Black Mageweave Headband	8343	Heavy Silken Thread	2	
+10026	Black Mageweave Boots	4339	Bolt of Mageweave	3	
+10026	Black Mageweave Boots	8343	Heavy Silken Thread	2	
+10026	Black Mageweave Boots	4304	Thick Leather	2	
+10034	Tuxedo Shirt	4339	Bolt of Mageweave	4	
+10034	Tuxedo Shirt	8343	Heavy Silken Thread	2	
+10035	Tuxedo Pants	4339	Bolt of Mageweave	4	
+10035	Tuxedo Pants	8343	Heavy Silken Thread	3	
+10036	Tuxedo Jacket	4339	Bolt of Mageweave	5	
+10036	Tuxedo Jacket	8343	Heavy Silken Thread	3	
+10040	White Wedding Dress	4339	Bolt of Mageweave	5	
+10040	White Wedding Dress	8343	Heavy Silken Thread	3	
+10040	White Wedding Dress	2324	Bleach	1	
+10046	Simple Linen Boots	2996	Bolt of Linen Cloth	2	
+10046	Simple Linen Boots	2318	Light Leather	1	
+10046	Simple Linen Boots	2320	Coarse Thread	1	
+10047	Simple Kilt	2996	Bolt of Linen Cloth	4	
+10047	Simple Kilt	2321	Fine Thread	1	
+10050	Mageweave Bag	4339	Bolt of Mageweave	4	
+10050	Mageweave Bag	4291	Silken Thread	2	
+10051	Red Mageweave Bag	4339	Bolt of Mageweave	4	
+10051	Red Mageweave Bag	2604	Red Dye	2	
+10051	Red Mageweave Bag	8343	Heavy Silken Thread	2	
+10056	Orange Mageweave Shirt	4339	Bolt of Mageweave	1	
+10056	Orange Mageweave Shirt	6261	Orange Dye	1	
+10056	Orange Mageweave Shirt	8343	Heavy Silken Thread	1	
+10421	Rough Copper Vest	2840	Copper Bar	4	
+10498	Gyromatic Micro-Adjustor	3859	Steel Bar	4	
+10503	Rose Colored Goggles	4304	Thick Leather	6	
+10503	Rose Colored Goggles	7910	Star Ruby	2	
+10505	Solid Blasting Powder	7912	Solid Stone	2	
+10506	Deepdive Helmet	3860	Mithril Bar	8	
+10506	Deepdive Helmet	10561	Mithril Casing	1	
+10506	Deepdive Helmet	6037	Truesilver Bar	1	
+10506	Deepdive Helmet	818	Tigerseye	4	
+10506	Deepdive Helmet	774	Malachite	4	
+10507	Solid Dynamite	10505	Solid Blasting Powder	1	
+10507	Solid Dynamite	4306	Silk Cloth	1	
+10558	Gold Power Core	3577	Gold Bar	1	
+10559	Mithril Tube	3860	Mithril Bar	3	
+10560	Unstable Trigger	3860	Mithril Bar	1	
+10560	Unstable Trigger	4338	Mageweave Cloth	1	
+10560	Unstable Trigger	10505	Solid Blasting Powder	1	
+10561	Mithril Casing	3860	Mithril Bar	3	
+10620	Thorium Ore	108298	Thorium Ore Nugget	9	
+10724	Gnomish Rocket Boots	10026	Black Mageweave Boots	1	
+10724	Gnomish Rocket Boots	10559	Mithril Tube	2	
+10724	Gnomish Rocket Boots	4234	Heavy Leather	4	
+10724	Gnomish Rocket Boots	10505	Solid Blasting Powder	8	
+10724	Gnomish Rocket Boots	4389	Gyrochronatom	4	
+10939	Greater Magic Essence	10938	Lesser Magic Essence	2	
+11082	Greater Astral Essence	10998	Lesser Astral Essence	2	
+11135	Greater Mystic Essence	11134	Lesser Mystic Essence	2	
+11175	Greater Nether Essence	11174	Lesser Nether Essence	2	
+11288	Greater Magic Wand	4470	Simple Wood	1	
+11288	Greater Magic Wand	10939	Greater Magic Essence	1	
+11290	Greater Mystic Wand	11291	Star Wood	1	
+11290	Greater Mystic Wand	11135	Greater Mystic Essence	1	
+11290	Greater Mystic Wand	11137	Vision Dust	1	
+11371	Dark Iron Bar	11370	Dark Iron Ore	8	
+11825	Pet Bombling	4394	Big Iron Bomb	1	
+11825	Pet Bombling	7077	Heart of Fire	1	
+11825	Pet Bombling	7191	Fused Wiring	1	
+11825	Pet Bombling	3860	Mithril Bar	6	
+11826	Lil' Smoky	7075	Core of Earth	1	
+11826	Lil' Smoky	4389	Gyrochronatom	2	
+11826	Lil' Smoky	7191	Fused Wiring	1	
+11826	Lil' Smoky	3860	Mithril Bar	2	
+11826	Lil' Smoky	6037	Truesilver Bar	1	
+12190	Dreamless Sleep Potion	8831	Purple Lotus	3	
+12190	Dreamless Sleep Potion	3371	Crystal Vial	1	
+12210	Roast Raptor	12184	Raptor Flesh	1	
+12359	Thorium Bar	10620	Thorium Ore	1	
+12360	Arcanite Bar	12359	Thorium Bar	1	
+12360	Arcanite Bar	12363	Arcane Crystal	1	
+12404	Dense Sharpening Stone	12365	Dense Stone	1	
+12408	Thorium Bracers	12359	Thorium Bar	8	
+12410	Thorium Helm	12359	Thorium Bar	12	
+12410	Thorium Helm	7910	Star Ruby	1	
+12419	Radiant Boots	12359	Thorium Bar	14	
+12419	Radiant Boots	7077	Heart of Fire	4	
+12425	Imperial Plate Bracers	12359	Thorium Bar	12	
+12426	Imperial Plate Boots	12359	Thorium Bar	18	
+12427	Imperial Plate Helm	12359	Thorium Bar	18	
+12427	Imperial Plate Helm	7910	Star Ruby	1	
+12644	Dense Grinding Stone	12365	Dense Stone	4	
+12655	Enchanted Thorium Bar	12359	Thorium Bar	1	
+12655	Enchanted Thorium Bar	11176	Dream Dust	3	
+12803	Living Essence	7076	Essence of Earth	1	
+12808	Essence of Undeath	7080	Essence of Water	1	
+12810	Enchanted Leather	8170	Rugged Leather	1	
+12810	Enchanted Leather	16202	Lesser Eternal Essence	1	
+13159	Bone Dust	13157	Fetid Skull	1	
+13423	Stonescale Oil	13422	Stonescale Eel	1	
+13442	Mighty Rage Potion	8846	Gromsblood	3	
+13442	Mighty Rage Potion	3371	Crystal Vial	1	
+13443	Superior Mana Potion	8838	Sungrass	2	
+13443	Superior Mana Potion	8839	Blindweed	2	
+13443	Superior Mana Potion	3371	Crystal Vial	1	
+13444	Major Mana Potion	13463	Dreamfoil	3	
+13444	Major Mana Potion	13467	Icecap	2	
+13444	Major Mana Potion	3371	Crystal Vial	1	
+13446	Major Healing Potion	13464	Golden Sansam	2	
+13446	Major Healing Potion	13465	Mountain Silversage	1	
+13446	Major Healing Potion	3371	Crystal Vial	1	
+13459	Greater Shadow Protection Potion	3824	Shadow Oil	1	
+13459	Greater Shadow Protection Potion	13463	Dreamfoil	1	
+13459	Greater Shadow Protection Potion	3371	Crystal Vial	1	
+13462	Purification Potion	13467	Icecap	2	
+13462	Purification Potion	13466	Sorrowmoss	2	
+13462	Purification Potion	3371	Crystal Vial	1	
+13463	Dreamfoil	108339	Dreamfoil Blade	9	
+13464	Golden Sansam	108340	Golden Sansam Leaf	9	
+13465	Mountain Silversage	108341	Mountain Silversage Stalk	9	
+13466	Sorrowmoss	108342	Sorrowmoss Leaf	9	
+13467	Icecap	108343	Icecap Petal	9	
+13856	Runecloth Belt	14048	Bolt of Runecloth	3	
+13856	Runecloth Belt	14341	Rune Thread	1	
+13858	Runecloth Robe	14048	Bolt of Runecloth	5	
+13858	Runecloth Robe	14227	Ironweb Spider Silk	1	
+13858	Runecloth Robe	14341	Rune Thread	1	
+13860	Runecloth Cloak	14048	Bolt of Runecloth	4	
+13860	Runecloth Cloak	14227	Ironweb Spider Silk	1	
+13863	Runecloth Gloves	14048	Bolt of Runecloth	5	
+13863	Runecloth Gloves	14341	Rune Thread	2	
+13865	Runecloth Pants	14048	Bolt of Runecloth	5	
+13865	Runecloth Pants	14227	Ironweb Spider Silk	2	
+13865	Runecloth Pants	14341	Rune Thread	1	
+13866	Runecloth Headband	14048	Bolt of Runecloth	6	
+13866	Runecloth Headband	14341	Rune Thread	2	
+13869	Frostweave Tunic	14048	Bolt of Runecloth	5	
+13869	Frostweave Tunic	6260	Blue Dye	2	
+13869	Frostweave Tunic	14341	Rune Thread	1	
+13870	Frostweave Gloves	14048	Bolt of Runecloth	5	
+13870	Frostweave Gloves	6260	Blue Dye	2	
+13870	Frostweave Gloves	14341	Rune Thread	1	
+14045	Cindercloth Pants	14048	Bolt of Runecloth	6	
+14045	Cindercloth Pants	7078	Essence of Fire	1	
+14045	Cindercloth Pants	14341	Rune Thread	1	
+14048	Bolt of Runecloth	14047	Runecloth	4	
+14101	Brightcloth Gloves	14048	Bolt of Runecloth	4	
+14101	Brightcloth Gloves	3577	Gold Bar	2	
+14128	Wizardweave Robe	14048	Bolt of Runecloth	8	
+14128	Wizardweave Robe	11176	Dream Dust	2	
+14128	Wizardweave Robe	14341	Rune Thread	1	
+14155	Mooncloth Bag	14048	Bolt of Runecloth	4	
+14155	Mooncloth Bag	14342	Mooncloth	1	
+14155	Mooncloth Bag	14341	Rune Thread	1	
+14342	Mooncloth	14256	Felcloth	2	
+14529	Runecloth Bandage	14047	Runecloth	1	
+15053	Volcanic Breastplate	8170	Rugged Leather	8	
+15053	Volcanic Breastplate	7078	Essence of Fire	1	
+15053	Volcanic Breastplate	7076	Essence of Earth	1	
+15053	Volcanic Breastplate	14341	Rune Thread	1	
+15054	Volcanic Leggings	8170	Rugged Leather	6	
+15054	Volcanic Leggings	7078	Essence of Fire	1	
+15054	Volcanic Leggings	7075	Core of Earth	1	
+15054	Volcanic Leggings	14341	Rune Thread	1	
+15055	Volcanic Shoulders	8170	Rugged Leather	10	
+15055	Volcanic Shoulders	7078	Essence of Fire	1	
+15055	Volcanic Shoulders	7076	Essence of Earth	1	
+15055	Volcanic Shoulders	14341	Rune Thread	2	
+15061	Living Shoulders	8170	Rugged Leather	12	
+15061	Living Shoulders	12803	Living Essence	4	
+15061	Living Shoulders	14341	Rune Thread	1	
+15064	Warbear Harness	8170	Rugged Leather	28	
+15064	Warbear Harness	15419	Warbear Leather	12	
+15064	Warbear Harness	14341	Rune Thread	1	
+15065	Warbear Woolies	8170	Rugged Leather	24	
+15065	Warbear Woolies	15419	Warbear Leather	14	
+15065	Warbear Woolies	14341	Rune Thread	1	
+15084	Wicked Leather Bracers	8170	Rugged Leather	8	
+15084	Wicked Leather Bracers	2325	Black Dye	1	
+15084	Wicked Leather Bracers	14341	Rune Thread	1	
+15086	Wicked Leather Headband	8170	Rugged Leather	12	
+15086	Wicked Leather Headband	2325	Black Dye	1	
+15086	Wicked Leather Headband	14341	Rune Thread	1	
+15091	Runic Leather Gauntlets	8170	Rugged Leather	10	
+15091	Runic Leather Gauntlets	14047	Runecloth	6	
+15091	Runic Leather Gauntlets	14341	Rune Thread	1	
+15093	Runic Leather Belt	8170	Rugged Leather	10	
+15093	Runic Leather Belt	14047	Runecloth	10	
+15093	Runic Leather Belt	14341	Rune Thread	1	
+15407	Cured Rugged Hide	8171	Rugged Hide	1	
+15407	Cured Rugged Hide	8150	Deeprock Salt	1	
+15869	Silver Skeleton Key	2842	Silver Bar	1	
+15869	Silver Skeleton Key	3470	Rough Grinding Stone	1	
+15870	Golden Skeleton Key	3577	Gold Bar	1	
+15870	Golden Skeleton Key	3486	Heavy Grinding Stone	1	
+15871	Truesilver Skeleton Key	6037	Truesilver Bar	1	
+15871	Truesilver Skeleton Key	7966	Solid Grinding Stone	1	
+15992	Dense Blasting Powder	12365	Dense Stone	2	
+15994	Thorium Widget	12359	Thorium Bar	3	
+15994	Thorium Widget	14047	Runecloth	1	
+15996	Lifelike Mechanical Toad	12803	Living Essence	1	
+15996	Lifelike Mechanical Toad	15994	Thorium Widget	4	
+15996	Lifelike Mechanical Toad	10558	Gold Power Core	1	
+15996	Lifelike Mechanical Toad	8170	Rugged Leather	1	
+15999	Spellpower Goggles Xtreme Plus	10502	Spellpower Goggles Xtreme	1	
+15999	Spellpower Goggles Xtreme Plus	7910	Star Ruby	4	
+15999	Spellpower Goggles Xtreme Plus	12810	Enchanted Leather	2	
+15999	Spellpower Goggles Xtreme Plus	14047	Runecloth	8	
+16000	Thorium Tube	12359	Thorium Bar	6	
+16203	Greater Eternal Essence	16202	Lesser Eternal Essence	2	
+17193	Sulfuron Hammer	17203	Sulfuron Ingot	8	
+17193	Sulfuron Hammer	11371	Dark Iron Bar	20	
+17193	Sulfuron Hammer	12360	Arcanite Bar	50	
+17193	Sulfuron Hammer	7078	Essence of Fire	25	
+17193	Sulfuron Hammer	11382	Blood of the Mountain	10	
+17193	Sulfuron Hammer	17011	Lava Core	10	
+17193	Sulfuron Hammer	17010	Fiery Core	10	
+17202	Snowball	159	Refreshing Spring Water	1	
+17222	Spider Sausage	12205	White Spider Meat	2	
+17716	Snowmaster 9000	3860	Mithril Bar	8	
+17716	Snowmaster 9000	4389	Gyrochronatom	4	
+17716	Snowmaster 9000	17202	Snowball	4	
+17716	Snowmaster 9000	3829	Frost Oil	1	
+17723	Green Holiday Shirt	4305	Bolt of Silk Cloth	5	
+17723	Green Holiday Shirt	2605	Green Dye	4	
+17723	Green Holiday Shirt	4291	Silken Thread	1	
+17771	Enchanted Elementium Bar	18562	Elementium Ingot	1	
+17771	Enchanted Elementium Bar	12360	Arcanite Bar	10	
+17771	Enchanted Elementium Bar	17010	Fiery Core	1	
+17771	Enchanted Elementium Bar	18567	Elemental Flux	3	
+18045	Tender Wolf Steak	12208	Tender Wolf Meat	1	
+18232	Field Repair Bot 74A	12359	Thorium Bar	16	
+18232	Field Repair Bot 74A	7191	Fused Wiring	2	
+18258	Gordok Ogre Suit	14048	Bolt of Runecloth	2	
+18258	Gordok Ogre Suit	8170	Rugged Leather	4	
+18258	Gordok Ogre Suit	18240	Ogre Tannin	1	
+18258	Gordok Ogre Suit	14341	Rune Thread	1	
+18294	Elixir of Greater Water Breathing	7972	Ichor of Undeath	1	
+18294	Elixir of Greater Water Breathing	8831	Purple Lotus	2	
+18294	Elixir of Greater Water Breathing	3371	Crystal Vial	1	
+18486	Mooncloth Robe	14048	Bolt of Runecloth	6	
+18486	Mooncloth Robe	14342	Mooncloth	4	
+18486	Mooncloth Robe	13926	Golden Pearl	2	
+18486	Mooncloth Robe	14341	Rune Thread	2	
+18660	World Enlarger	10561	Mithril Casing	1	
+18660	World Enlarger	15994	Thorium Widget	2	
+18660	World Enlarger	10558	Gold Power Core	1	
+18660	World Enlarger	10560	Unstable Trigger	1	
+18660	World Enlarger	3864	Citrine	1	
+19149	Lava Belt	17011	Lava Core	2	
+19149	Lava Belt	17012	Core Leather	2	
+19149	Lava Belt	14227	Ironweb Spider Silk	4	
+19169	Nightfall	17011	Lava Core	8	
+19169	Nightfall	17010	Fiery Core	5	
+19169	Nightfall	12360	Arcanite Bar	10	
+19169	Nightfall	11371	Dark Iron Bar	12	
+19169	Nightfall	12364	Huge Emerald	4	
+20816	Delicate Copper Wire	2840	Copper Bar	2	
+20817	Bronze Setting	2841	Bronze Bar	2	
+20818	Elegant Silver Ring	2842	Silver Bar	1	
+20820	Simple Pearl Ring	5498	Small Lustrous Pearl	1	
+20820	Simple Pearl Ring	20817	Bronze Setting	1	
+20820	Simple Pearl Ring	2840	Copper Bar	2	
+20821	Inlaid Malachite Ring	774	Malachite	2	
+20821	Inlaid Malachite Ring	2840	Copper Bar	2	
+20823	Gloom Band	1210	Shadowgem	2	
+20823	Gloom Band	20817	Bronze Setting	1	
+20823	Gloom Band	20816	Delicate Copper Wire	2	
+20826	Heavy Silver Ring	2842	Silver Bar	2	
+20826	Heavy Silver Ring	20817	Bronze Setting	1	
+20826	Heavy Silver Ring	1206	Moss Agate	1	
+20826	Heavy Silver Ring	1705	Lesser Moonstone	1	
+20828	Ring of Twilight Shadows	1210	Shadowgem	2	
+20828	Ring of Twilight Shadows	2841	Bronze Bar	2	
+20906	Braided Copper Ring	20816	Delicate Copper Wire	2	
+20907	Solid Bronze Ring	2841	Bronze Bar	4	
+20950	Pendant of the Agate Shield	1206	Moss Agate	1	
+20950	Pendant of the Agate Shield	20817	Bronze Setting	1	
+20955	Golden Dragon Ring	1529	Jade	1	
+20955	Golden Dragon Ring	3577	Gold Bar	2	
+20955	Golden Dragon Ring	20816	Delicate Copper Wire	2	
+20958	Blazing Citrine Ring	3864	Citrine	1	
+20958	Blazing Citrine Ring	20963	Mithril Filigree	1	
+20960	Engraved Truesilver Ring	6037	Truesilver Bar	1	
+20960	Engraved Truesilver Ring	20963	Mithril Filigree	2	
+20963	Mithril Filigree	3860	Mithril Bar	2	
+20964	Aquamarine Signet	7909	Aquamarine	3	
+20964	Aquamarine Signet	52188	Jeweler's Setting	1	
+21154	Festival Dress	14048	Bolt of Runecloth	4	
+21154	Festival Dress	4625	Firebloom	2	
+21154	Festival Dress	2604	Red Dye	2	
+21154	Festival Dress	14341	Rune Thread	1	
+21277	Tranquil Mechanical Yeti	15407	Cured Rugged Hide	1	
+21277	Tranquil Mechanical Yeti	15994	Thorium Widget	4	
+21277	Tranquil Mechanical Yeti	7079	Globe of Water	2	
+21277	Tranquil Mechanical Yeti	18631	Truesilver Transformer	2	
+21277	Tranquil Mechanical Yeti	10558	Gold Power Core	1	
+21536	Elune Stone	7912	Solid Stone	1	
+21542	Festival Suit	14048	Bolt of Runecloth	4	
+21542	Festival Suit	4625	Firebloom	2	
+21542	Festival Suit	2604	Red Dye	2	
+21542	Festival Suit	14341	Rune Thread	1	
+21557	Small Red Rocket	4364	Coarse Blasting Powder	1	
+21557	Small Red Rocket	2319	Medium Leather	1	
+21558	Small Blue Rocket	4364	Coarse Blasting Powder	1	
+21558	Small Blue Rocket	2319	Medium Leather	1	
+21589	Large Blue Rocket	4377	Heavy Blasting Powder	1	
+21589	Large Blue Rocket	4234	Heavy Leather	1	
+21752	Thorium Setting	12359	Thorium Bar	1	
+21764	Ruby Pendant of Fire	7910	Star Ruby	1	
+21764	Ruby Pendant of Fire	21752	Thorium Setting	1	
+21768	Sapphire Signet	12361	Blue Sapphire	4	
+21768	Sapphire Signet	6037	Truesilver Bar	2	
+21768	Sapphire Signet	21752	Thorium Setting	1	
+21840	Bolt of Netherweave	21877	Netherweave Cloth	5	
+21841	Netherweave Bag	21840	Bolt of Netherweave	4	
+21841	Netherweave Bag	14341	Rune Thread	1	
+21842	Bolt of Imbued Netherweave	21840	Bolt of Netherweave	3	
+21842	Bolt of Imbued Netherweave	22445	Arcane Dust	2	
+21843	Imbued Netherweave Bag	21842	Bolt of Imbued Netherweave	4	
+21843	Imbued Netherweave Bag	21881	Netherweb Spider Silk	2	
+21843	Imbued Netherweave Bag	22446	Greater Planar Essence	1	
+21852	Netherweave Pants	21840	Bolt of Netherweave	6	
+21852	Netherweave Pants	14341	Rune Thread	1	
+21853	Netherweave Boots	21840	Bolt of Netherweave	6	
+21853	Netherweave Boots	21887	Knothide Leather	2	
+21853	Netherweave Boots	14341	Rune Thread	1	
+21884	Primal Fire	22574	Mote of Fire	9	
+21885	Primal Water	22578	Mote of Water	9	
+21886	Primal Life	22575	Mote of Life	9	
+21887	Knothide Leather	25649	Knothide Leather Scraps	5	
+21931	Woven Copper Ring	20816	Delicate Copper Wire	2	
+21931	Woven Copper Ring	2840	Copper Bar	1	
+21932	Heavy Copper Ring	2840	Copper Bar	4	
+21932	Heavy Copper Ring	20816	Delicate Copper Wire	2	
+21933	Thick Bronze Necklace	2841	Bronze Bar	2	
+21933	Thick Bronze Necklace	1210	Shadowgem	1	
+21933	Thick Bronze Necklace	20816	Delicate Copper Wire	1	
+21934	Ornate Tigerseye Necklace	818	Tigerseye	2	
+21934	Ornate Tigerseye Necklace	2840	Copper Bar	2	
+21934	Ornate Tigerseye Necklace	20816	Delicate Copper Wire	1	
+21990	Netherweave Bandage	21877	Netherweave Cloth	1	
+21991	Heavy Netherweave Bandage	21877	Netherweave Cloth	2	
+22446	Greater Planar Essence	22447	Lesser Planar Essence	2	
+22448	Small Prismatic Shard	20725	Nexus Crystal	1	
+22449	Large Prismatic Shard	22448	Small Prismatic Shard	3	
+22451	Primal Air	22572	Mote of Air	9	
+22452	Primal Earth	22573	Mote of Earth	9	
+22456	Primal Shadow	22577	Mote of Shadow	9	
+22457	Primal Mana	22576	Mote of Mana	9	
+22459	Void Sphere	22450	Void Crystal	2	
+22573	Mote of Earth	22452	Primal Earth	1	
+22574	Mote of Fire	21884	Primal Fire	1	
+22645	Crunchy Spider Surprise	22644	Crunchy Spider Leg	1	
+22785	Felweed	108344	Felweed Stalk	9	
+22786	Dreaming Glory	108345	Dreaming Glory Petal	9	
+22787	Ragveil	108346	Ragveil Cap	9	
+22789	Terocone	108347	Terocone Leaf	9	
+22790	Ancient Lichen	108348	Ancient Lichen Petal	9	
+22791	Netherbloom	108349	Netherbloom Leaf	9	
+22792	Nightmare Vine	108350	Nightmare Vine Stem	9	
+22793	Mana Thistle	108351	Mana Thistle Leaf	9	
+22824	Elixir of Major Strength	13465	Mountain Silversage	1	
+22824	Elixir of Major Strength	22785	Felweed	1	
+22824	Elixir of Major Strength	3371	Crystal Vial	1	
+22826	Sneaking Potion	22787	Ragveil	2	
+22826	Sneaking Potion	22785	Felweed	1	
+22826	Sneaking Potion	3371	Crystal Vial	1	
+22829	Super Healing Potion	22791	Netherbloom	2	
+22829	Super Healing Potion	22785	Felweed	1	
+22829	Super Healing Potion	3371	Crystal Vial	1	
+22832	Super Mana Potion	22786	Dreaming Glory	2	
+22832	Super Mana Potion	22785	Felweed	1	
+22832	Super Mana Potion	3371	Crystal Vial	1	
+23095	Bold Blood Garnet	23077	Blood Garnet	1	
+23104	Jagged Deep Peridot	23079	Deep Peridot	1	
+23119	Sparkling Azure Moonstone	23117	Azure Moonstone	1	
+23424	Fel Iron Ore	108301	Fel Iron Ore Nugget	9	
+23425	Adamantite Ore	108302	Adamantite Ore Nugget	9	
+23426	Khorium Ore	108304	Khorium Ore Nugget	9	
+23427	Eternium Ore	108303	Eternium Ore Nugget	9	
+23445	Fel Iron Bar	23424	Fel Iron Ore	2	
+23446	Adamantite Bar	23425	Adamantite Ore	2	
+23447	Eternium Bar	23427	Eternium Ore	2	
+23448	Felsteel Bar	23445	Fel Iron Bar	3	
+23448	Felsteel Bar	23447	Eternium Bar	2	
+23449	Khorium Bar	23426	Khorium Ore	2	
+23482	Fel Iron Plate Gloves	23445	Fel Iron Bar	4	
+23484	Fel Iron Plate Belt	23445	Fel Iron Bar	4	
+23487	Fel Iron Plate Boots	23445	Fel Iron Bar	6	
+23489	Fel Iron Breastplate	23445	Fel Iron Bar	10	
+23490	Fel Iron Chain Tunic	23445	Fel Iron Bar	9	
+23491	Fel Iron Chain Gloves	23445	Fel Iron Bar	5	
+23493	Fel Iron Chain Coif	23445	Fel Iron Bar	4	
+23494	Fel Iron Chain Bracers	23445	Fel Iron Bar	6	
+23540	Felsteel Longblade	23449	Khorium Bar	10	
+23540	Felsteel Longblade	23448	Felsteel Bar	10	
+23540	Felsteel Longblade	23571	Primal Might	6	
+23540	Felsteel Longblade	23572	Primal Nether	2	
+23543	Felsteel Reaper	23449	Khorium Bar	10	
+23543	Felsteel Reaper	23448	Felsteel Bar	10	
+23543	Felsteel Reaper	23571	Primal Might	8	
+23543	Felsteel Reaper	23572	Primal Nether	2	
+23571	Primal Might	22452	Primal Earth	1	
+23571	Primal Might	21885	Primal Water	1	
+23571	Primal Might	22451	Primal Air	1	
+23571	Primal Might	21884	Primal Fire	1	
+23571	Primal Might	22457	Primal Mana	1	
+23573	Hardened Adamantite Bar	23446	Adamantite Bar	10	
+23736	Fel Iron Bomb	23782	Fel Iron Casing	1	
+23736	Fel Iron Bomb	23783	Handful of Fel Iron Bolts	2	
+23736	Fel Iron Bomb	23781	Elemental Blasting Powder	1	
+23767	Crashin' Thrashin' Robot	23784	Adamantite Frame	1	
+23767	Crashin' Thrashin' Robot	23782	Fel Iron Casing	2	
+23767	Crashin' Thrashin' Robot	10558	Gold Power Core	1	
+23767	Crashin' Thrashin' Robot	23783	Handful of Fel Iron Bolts	2	
+23775	Titanium Toolbox	36913	Saronite Bar	8	
+23775	Titanium Toolbox	41163	Titanium Bar	8	
+23775	Titanium Toolbox	39681	Handful of Cobalt Bolts	4	
+23781	Elemental Blasting Powder	22574	Mote of Fire	1	
+23781	Elemental Blasting Powder	22573	Mote of Earth	2	
+23782	Fel Iron Casing	23445	Fel Iron Bar	3	
+23783	Handful of Fel Iron Bolts	23445	Fel Iron Bar	1	
+23784	Adamantite Frame	23446	Adamantite Bar	4	
+23784	Adamantite Frame	22452	Primal Earth	1	
+23787	Felsteel Stabilizer	23448	Felsteel Bar	2	
+23793	Heavy Knothide Leather	21887	Knothide Leather	5	
+24077	Thick Adamantite Necklace	23446	Adamantite Bar	2	
+24077	Thick Adamantite Necklace	31079	Mercurial Adamantite	1	
+24272	Shadowcloth	21842	Bolt of Imbued Netherweave	1	
+24272	Shadowcloth	22456	Primal Shadow	1	
+24272	Shadowcloth	21884	Primal Fire	1	
